@@ -2,5 +2,23 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "hi",
+  "description": "## Overview This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelmoneim00/Weather-jornal-app.git"
+  },
+  "author": "abdel-moneim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelmoneim00/Weather-jornal-app/issues"
+  },
+  "homepage": "https://github.com/Abdelmoneim00/Weather-jornal-app#readme"
 }
